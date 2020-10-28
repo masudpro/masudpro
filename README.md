@@ -52,4 +52,3 @@
 [jsplaylist]: https://google.com/
 [cssplaylist]: https://google.com/
 [reactplaylist]: https://google.com/
-XMA Header Image
