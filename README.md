@@ -39,7 +39,7 @@
 <br />
 <br />
 
-<img width="550" alt="Azizul Haque Github Stats"  src="https://github-readme-stats.vercel.app/api?username=azizul016&show_icons=true"/>
+<img width="550" alt="Md. Masud Rana Github Stats"  src="https://github-readme-stats.vercel.app/api?username=azizul016&show_icons=true"/>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=azizul016&card_width=550)](https://github.com/azizul016/azizul016)
 
