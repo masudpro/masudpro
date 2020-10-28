@@ -1,4 +1,4 @@
-### Hi there, I'm Azizul Haque
+### Hi there, This is Masud Rana
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
  - 🔭 I’m currently learning [Programming Hero][programming]!
