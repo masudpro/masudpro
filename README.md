@@ -1,16 +1,16 @@
 ### Hi there, This is Masud Rana
 
-## I'm a 😍😍 JavaScript Lover 😍😍!
+## I'm a 😍😍 React.js Specialist 😍😍!
  - 🔭 I’m currently learning [Programming Hero][programming]!
  - 👯 I’m looking to collaborate on any interesting project
  - 🤔 I’m looking for help with Job
- - 📫 How to reach me: haqueazizul789@gmail.com
- - 🥅 2020 Goals: Learn React,Vue, Node
+ - 📫 How to reach me: masudrana115353@gmail.com
+ - 🥅 2020 Goals: Learn React(backed part),Vue.js, python
  - ⚡ Fun fact: I love to see movie and play cricket 
 
 ### Connect with me:
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/azizul--haque/)   [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/azizul.haque.789) [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/13943687/azizul-haque)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/masudpro/)   [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/azizul.haque.789) [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/13943687/azizul-haque)
 
 ### Hire Me!
 [Resume](https://drive.google.com/file/d/1VKWrthpPzPp0mWeYmFv0VNdvBVJ_-_S2/view?usp=sharing)
