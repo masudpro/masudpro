@@ -1,6 +1,6 @@
-### Hi there, I'm Azizul Haque
+### Hi This is Masud Rana
 
-## I'm a 😍😍 JavaScript Lover 😍😍!
+## I'm a 😍😍 Front End Web Developer 😍😍!
  - 🔭 I’m currently learning [Programming Hero][programming]!
  - 👯 I’m looking to collaborate on any interesting project
  - 🤔 I’m looking for help with Job
@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/azizul--haque/)   [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/masudpro1/) 
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/masudpro/)   [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/masudpro1/) 
 
 ### Hire Me!
 [Resume](https://drive.google.com/file/d/1_vURpGBlAe0mR_eSpM21AlrvYyyltebL/view?usp=sharing)
@@ -41,7 +41,7 @@
 
 <img width="550" alt="Md. Masud Rana Github Stats"  src="https://github-readme-stats.vercel.app/api?username=azizul016&show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=azizul016&card_width=550)](https://github.com/azizul016/azizul016)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=azizul016&card_width=550)](https://github.com/azizul016/masudpro)
 
 [programming]: https://www.programming-hero.com/
 [website]: https://google.com/
